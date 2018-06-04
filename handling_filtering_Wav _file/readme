@@ -1,1 +1,32 @@
 
+ ###  
+ This code was made intending to Read - Filtering- Write Binary File. 
+ I broke down the code into a some .c file to make it easy to understand.
+ I put the wav song for download, check the wav_songs Folder attach to Embedded System
+ 
+ 
+ # First Step #
+ 
+ Read  the wav file header and handle with the bitwise (Endnesses)
+ 
+ ## Second Step ##
+ 
+ I have implemented the filter in matlab and saved as .txt file 
+ 
+ ### Thrid Sted ### 
+ 
+ Once I have read the wav header and the data  I implemented a convollution function 
+ to filtering the data 
+ 
+ #### fourth step ####
+ 
+ I write the header and the new- filtered-data back into a wave_soung.out 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
